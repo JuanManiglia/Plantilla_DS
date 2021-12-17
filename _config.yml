@@ -5,7 +5,7 @@ description: "Site of Data Science"
 logo: bio-photo.jpg # 120x120 px default image used for Twitter summary card
 teaser: python2.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://juanmaniglia.github.io/Plantilla_DS/
 feed:
   path: atom.xml
 
